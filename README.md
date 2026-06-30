@@ -5,6 +5,7 @@ SLIMR (Simple Lightweight Inert Mass Rebalance) is a mod for Kerbal Space Progra
 ## Dependencies
 
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
+- [Part Patch Utils (1.0.0)](https://github.com/CharleRoger/PartPatchUtils)
 
 ## Compatibility
 
